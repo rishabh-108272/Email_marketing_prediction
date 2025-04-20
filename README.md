@@ -1,7 +1,8 @@
 # Email_marketing_prediction
 This project focuses on email classification and analysis using machine learning techniques. The goal is to effectively identify and maximize the probability of click through rates of the links in the emails.
 
-#Methodology
+# Methodology
+
 # Email Campaign Analysis Steps
 
 ## 1. Data Preparation
